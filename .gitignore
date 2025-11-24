@@ -74,3 +74,6 @@ node_modules
 *.ticky.modules
 
 yarn-error.log
+cli/cmd/mcp-server/hasura-mcp-server
+cli/cmd/mcp-server/mock-hasura
+cli/cmd/mcp-server/mock-hasura.log
